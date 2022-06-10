@@ -58095,7 +58095,7 @@ break
 case 1:return A.a2(q,r)}})
 return A.a3($async$ro,r)}}
 A.CK.prototype={
-J(a,b){return new A.tx(B.DR,"Vokabular",A.aci(null,B.w6,B.xL,B.eS,B.y5,B.eS),!1,null)}}
+J(a,b){return new A.tx(B.DR,"TOTP Verifier",A.aci(null,B.w6,B.xL,B.eS,B.y5,B.eS),!1,null)}}
 A.CL.prototype={
 J(a,b){return B.w8}}
 A.kG.prototype={
